@@ -1,0 +1,21 @@
+h1
+{
+color:red;
+font-family:"Times New Roman", Times, serif;
+font-size:22pt;
+text-decoration:underline;
+}
+h2
+{
+color:blue;
+font-family: Brush Script MT, Brush Script Std, cursive;
+font-size:18pt;
+text-decoration:overline;
+}
+p
+{
+color:magenta;
+font-family:Trebuchet MS;
+font-size:14pt;
+font-style:italic;
+}
